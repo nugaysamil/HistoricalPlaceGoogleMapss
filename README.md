@@ -1,16 +1,9 @@
-# mapsuygulama
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2023-02-16 at 17 36 41](https://user-images.githubusercontent.com/106466382/219397384-712fc7d5-ea86-43a3-96a9-dd9f19b2df0a.png)
+![Screen Shot 2023-02-15 at 23 47 26](https://user-images.githubusercontent.com/106466382/219397409-c34556d2-335e-45bd-8309-b15c138adc36.png)
+![Screen Shot 2023-02-16 at 17 35 56](https://user-images.githubusercontent.com/106466382/219397415-722343cb-d8e5-41bd-8ba8-8178ac26f165.png)
+![Screen Shot 2023-02-16 at 17 36 32](https://user-images.githubusercontent.com/106466382/219397425-eda7e902-abdc-42df-bb08-05f2d81528a0.png)
+![Screen Shot 2023-02-16 at 17 33 36](https://user-images.githubusercontent.com/106466382/219397428-511b69dc-3944-497c-9c43-3d46bc7940e5.png)
+![Screen Shot 2023-02-16 at 17 33 49](https://user-images.githubusercontent.com/106466382/219397434-ab2a1d46-178f-4aca-8e3d-a788a64f8d96.png)
+![Screen Shot 2023-02-16 at 17 34 02](https://user-images.githubusercontent.com/106466382/219397442-ea664ead-6f3f-4d08-b5f7-e1ca215ed645.png)
+![Screen Shot 2023-02-16 at 17 34 10](https://user-images.githubusercontent.com/106466382/219397448-be7968c7-9454-48ff-91b0-accb4eb3aec9.png)
+![Screen Shot 2023-02-16 at 17 34 21](https://user-images.githubusercontent.com/106466382/219397455-01937a9b-3246-4e80-ba62-a9dea491aead.png)
