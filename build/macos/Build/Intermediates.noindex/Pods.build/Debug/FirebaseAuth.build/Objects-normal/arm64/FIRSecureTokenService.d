@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRSecureTokenService.m \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRSecureTokenService.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthSerialTaskQueue.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthTokenResult_Internal.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Interop/FIRAuthInterop.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLogger.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRSecureTokenRequest.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRSecureTokenResponse.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponent.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRDependency.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIROptionsInternal.h

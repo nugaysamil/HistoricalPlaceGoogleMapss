@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "bc817f99664252f393ba41a6ec801b4fdf9e7a92aca39b19bf41eec5b93fc301"
+build_start_time: [1676031630, 965473175]
+build_end_time: [1676031630, 988986968]
+inputs:
+  "/Users/samilnugay/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.1/macos/Classes/PathProviderPlugin.swift": !private [1675533332, 325658321]
+  "/Users/samilnugay/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.1/macos/Classes/messages.g.swift": !private [1675533332, 325800895]

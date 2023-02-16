@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "380f91819b636944a9d630315d1ce530a38a39a6a9db448c466800472ad0b7a4"
+build_start_time: [1676031687, 159096956]
+build_end_time: [1676031687, 263061046]
+inputs:
+  "/Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1676031615, 572553157]
+  "/Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Runner/AppDelegate.swift": !private [1669181294, 0]
+  "/Users/samilnugay/FlutterProjeleri/mapsuygulama/macos/Runner/MainFlutterWindow.swift": !private [1669181294, 0]
